@@ -99,7 +99,7 @@ export default class LoginScreen extends Component {
       <View style={styles.container}>
         {this.ShowView()}
         <View style={styles.loginContainer}>
-          <Text style={{fontSize: 50, color: '#FF5733'}}>ฮันแน่!!</Text>
+          <Text style={{fontSize: 50, color: '#FF5733'}}>LOGIN</Text>
         </View>
         <View style={styles.formContainer}>
           <TextInput
